@@ -142,6 +142,7 @@ function filtering_ads(){
 	if($mode == 'filtering_ads'){
 		filtering_ads();
 	}
+	/*any changes*/
 
 	
 	?>
